@@ -1,16 +1,16 @@
 # MiddAI Private, Offline AI from Middae
 MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
 
+ ## [Itch Page](https://github.com/YourName/MiddAI/releases/latest) - Check here for alternative download. 
+ ## [Download MiddAI](https://github.com/Middae/MiddAI---Private-Offline-AI-from-Middae/releases/download/v2.0/MiddAI.V2.0.zip) Click here to download MiddAI.
+
+
 <p align="center">
   <img src="editedsize.png" alt="MiddAI main screen" width="400">
 </p>
 
 Offline AI. Online intelligence when you need it.
 MiddAI is a self-hosted AI assistant that runs on your own computer. It can work fully offline, but when connected to the internet it can search the web, check facts, and use results to improve its answers.
-
- ## [Itch Page](https://github.com/YourName/MiddAI/releases/latest) - Check here for alternative download. 
- ## [Download MiddAI](https://github.com/Middae/MiddAI---Private-Offline-AI-from-Middae/releases/download/v2.0/MiddAI.V2.0.zip) Click here to download MiddAI.
-
 
 ## **Features:**
 Truly offline! - The AI/models run locally on your computer.
