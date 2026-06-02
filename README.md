@@ -2,7 +2,7 @@
 MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
 
 <p align="center">
-  <img src="editedsize.png" alt="MiddAI main screen" width="700">
+  <img src="editedsize.png" alt="MiddAI main screen" width="400">
 </p>
 
 Offline AI. Online intelligence when you need it.
