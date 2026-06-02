@@ -1,4 +1,4 @@
-# MiddAI---Private-Offline-AI-from-Middae
+# MiddAI Private, Offline AI from Middae
 MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
 
 <p align="center">
@@ -15,7 +15,7 @@ MiddAI is a self-hosted AI assistant that runs on your own computer. It can work
 ## **Features:**
 Truly offline! - The AI/models run locally on your computer.
 
-Online Search - If connected to the internet MiddAI can both text & image search.
+Online Search - If connected to the internet MiddAI can perform both text and image search.
 
 Memory System - MiddAI uses a multi-step memory system scoring memories by times seen. 
 
@@ -45,11 +45,14 @@ Chats, memory, settings, and instructions are stored locally on your machine. If
 ## **Easy Setup:**
 Getting started with MiddAI is simple:
 
-Download MiddAI, extract the folder, download and install LM Studio (https://lmstudio.ai/download), open LM Studio once, then run MiddAI.exe.
+1. Download the latest MiddAI release from GitHub.
+2. Extract the downloaded ZIP file.
+3. Run `MiddAI_Setup.exe`.
+4. Install LM Studio if you do not already have it.
+5. Open LM Studio once so it can finish its first-time setup.
+6. Launch MiddAI.
 
-The first time MiddAI starts, it will automatically create its setup files, download the AI model, and launch the local server.
-
-MiddAI also includes a README with setup notes and troubleshooting help. Please read it before first use.
+On first launch, MiddAI will prepare its setup files, download the selected AI model, and start the local server.
 
 Your settings, AI instructions, and memory file are saved locally in:
 
