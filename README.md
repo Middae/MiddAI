@@ -1,6 +1,8 @@
 # MiddAI---Private-Offline-AI-from-Middae
 MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
 
+![MiddAI main screen]([screenshots/main-screen.png](https://github.com/Middae/MiddAI---Private-Offline-AI-from-Middae/blob/main/editedsize.png?raw=true))
+
 Offline AI. Online intelligence when you need it.
 MiddAI is a self-hosted AI assistant that runs on your own computer. It can work fully offline, but when connected to the internet it can search the web, check facts, and use results to improve its answers.
 
