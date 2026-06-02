@@ -10,8 +10,11 @@ MiddAI is a self-hosted AI assistant that runs on your own computer. It can work
 
 ## **Features:**
 Truly offline! - The AI/models run locally on your computer.
+
 Online Search - If connected to the internet MiddAI can both text & image search.
+
 Memory System - MiddAI uses a multi-step memory system scoring memories by times seen. 
+
 Text & Image Analysis - Users can attach text files and images to be analysed. 
 
 ## **Privacy:**
