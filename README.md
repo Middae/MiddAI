@@ -8,7 +8,7 @@ MiddAI is built for people who want the privacy and control of a local AI, witho
 Offline AI. Online intelligence when you need it.
 MiddAI is a self-hosted AI assistant that runs on your own computer. It can work fully offline, but when connected to the internet it can search the web, check facts, and use results to improve its answers.
 
- ## [Itch Page](https://github.com/YourName/MiddAI/releases/latest) - Check here for more info, screenshots and alternative download. 
+ ## [Itch Page](https://github.com/YourName/MiddAI/releases/latest) - Check here for alternative download. 
  ## [Download MiddAI](https://github.com/Middae/MiddAI---Private-Offline-AI-from-Middae/releases/download/v2.0/MiddAI.V2.0.zip) Click here to download MiddAI.
 
 
@@ -20,6 +20,24 @@ Online Search - If connected to the internet MiddAI can both text & image search
 Memory System - MiddAI uses a multi-step memory system scoring memories by times seen. 
 
 Text & Image Analysis - Users can attach text files and images to be analysed. 
+
+## **Screenshots**
+
+<p align="center">
+  <img src="6AGy4B.png" alt="MiddAI main screen" width="400">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-05-29 063924.png" alt="MiddAI main screen" width="400">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-06-02 160722.png" alt="MiddAI main screen" width="400">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-05-29 063911.png" alt="MiddAI main screen" width="400">
+</p>
 
 ## **Privacy:**
 Chats, memory, settings, and instructions are stored locally on your machine. If you delete your chats, memory, or the Documents\MiddAI folder, that data is removed from your device. MiddAI does not collect, upload, sell, or share your personal data.
