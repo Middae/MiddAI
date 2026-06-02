@@ -1,0 +1,143 @@
+MiddAI Setup Guide
+==================
+
+MiddAI is a self-hosted AI chat app that runs through LM Studio. It lets you chat with a local AI model on your own computer, with an optional Search mode for online answers.
+
+MiddAI does not include LM Studio. Please download LM Studio directly from the official website:
+
+https://www.lmstudio.ai/download
+
+
+Quick Setup
+-----------
+
+1. Download LM Studio
+
+   Go to:
+
+   https://www.lmstudio.ai/download
+
+   Download the Windows installer.
+
+
+2. Install LM Studio
+
+   Run the LM Studio installer and follow the setup steps.
+
+
+3. Open LM Studio once
+
+   After installing, open LM Studio one time.
+
+   Wait until the app has fully opened, then close it again.
+
+   This first launch helps LM Studio finish setting itself up on your computer.
+
+
+4. Run MiddAI
+
+   Open this release folder and run:
+
+   MiddAI.exe
+
+   If you renamed the file, run the renamed MiddAI app instead.
+
+
+5. Choose a model
+
+   On first setup, MiddAI may ask which local AI model you want to use.
+
+   Recommended starting option:
+
+   Qwen3-4B-Instruct-2507
+
+   This is the fastest option and is best for laptops or lower-powered computers.
+
+   Bigger models can give better answers, but they need more memory and take longer to load.
+
+
+6. Wait for download and loading
+
+   If the model is not already downloaded, MiddAI will ask LM Studio to download it.
+
+   The first download can take a while depending on your internet speed.
+
+   After the download, LM Studio will load the model and start a local AI server.
+
+   This can look slow the first time. Leave the download window open and let it finish.
+
+
+7. Chat window opens
+
+   Once the model server is ready, MiddAI should open its chat window automatically.
+
+   Use Local mode for normal offline chat.
+
+   Use Search mode when you want MiddAI to search the internet before answering.
+
+   Load a vision model if you want to analyse pictures.
+
+
+Important Notes
+---------------
+
+- LM Studio must be installed before MiddAI can run properly.
+
+- You do not need to install Python. MiddAI is packaged as an executable.
+
+- The first model download needs an internet connection.
+
+- Local chat, text and image analysis runs on your own computer through LM Studio.
+
+- Search mode uses the internet to find sources.
+
+- If Windows warns that the app is from an unknown publisher, that is because this prototype is not code-signed.
+
+- If you press Ctrl+C while a model is loading, the command window may show a lot of errors. That usually just means the loading process was interrupted.
+
+
+User Settings and Memory
+------------------------
+
+MiddAI creates its user files in:
+
+Documents\MiddAI
+
+That folder may contain settings, AI instructions, and memory files.
+
+You can edit those files if you want to customize the assistant.
+
+Inside MiddAI, the Delete Memory button removes the saved memory file.
+
+
+Troubleshooting
+---------------
+
+If MiddAI does not open:
+
+1. Make sure LM Studio is installed.
+2. Open LM Studio manually once, then close it.
+3. Run MiddAI.exe again.
+
+If model setup seems stuck:
+
+1. Give it a few minutes, especially on the first run.
+2. Make sure your internet is working if the model is downloading.
+3. Make sure LM Studio is allowed through Windows security prompts.
+
+If chat opens but the AI does not answer:
+
+1. LM Studio may still be loading the model.
+2. Close MiddAI and LM Studio.
+3. Open LM Studio once.
+4. Run MiddAI.exe again.
+
+
+Where To Get LM Studio
+----------------------
+
+Official LM Studio download page:
+
+https://www.lmstudio.ai/download
+
+For safety, download LM Studio only from the official LM Studio website.
