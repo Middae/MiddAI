@@ -24,19 +24,19 @@ Text & Image Analysis - Users can attach text files and images to be analysed.
 ## **Screenshots**
 
 <p align="center">
-  <img src="6AGy4B.png" alt="MiddAI main screen" width="400">
+  <img src="6AGy4B.png" alt="MiddAI main screen" width="600">
 </p>
 
 <p align="center">
-  <img src="Screenshot 2026-05-29 063924.png" alt="MiddAI main screen" width="400">
+  <img src="Screenshot 2026-05-29 063924.png" alt="MiddAI main screen" width="600">
 </p>
 
 <p align="center">
-  <img src="Screenshot 2026-06-02 160722.png" alt="MiddAI main screen" width="400">
+  <img src="Screenshot 2026-06-02 160722.png" alt="MiddAI main screen" width="600">
 </p>
 
 <p align="center">
-  <img src="Screenshot 2026-05-29 063911.png" alt="MiddAI main screen" width="400">
+  <img src="Screenshot 2026-05-29 063911.png" alt="MiddAI main screen" width="600">
 </p>
 
 ## **Privacy:**
