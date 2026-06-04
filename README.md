@@ -2,7 +2,7 @@
 MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
 
  
- ## [Download MiddAI](https://github.com/Middae/MiddAI---Private-Offline-AI-from-Middae/releases/download/v2.0/MiddAI.V2.0.zip) Click here to download MiddAI.
+ # [Download MiddAI](https://github.com/Middae/MiddAI---Private-Offline-AI-from-Middae/releases/download/v2.0/MiddAI.V2.0.zip) Click here to download MiddAI.
 
 
 <p align="center">
@@ -13,13 +13,30 @@ Offline AI. Online intelligence when you need it.
 MiddAI is a self-hosted AI assistant that runs on your own computer. It can work fully offline, but when connected to the internet it can search the web, check facts, and use results to improve its answers.
 
 ## **Features:**
-Truly offline! - The AI/models run locally on your computer.
 
-Online Search - If connected to the internet MiddAI can perform both text and image search.
+**Offline Use**  
+Once LM Studio and a model are installed, MiddAI can chat locally without an internet connection.
 
-Memory System - MiddAI uses a multi-step memory system scoring memories by times seen. 
+**Online Search**  
+When connected to the internet, MiddAI can search the web for current information, sources, and image results.
 
-Text & Image Analysis - Users can attach text files and images to be analysed. 
+**Image Search**  
+Search results can include image thumbnails, useful for places, objects, plants, products, and visual examples.
+
+**Memory System**  
+MiddAI includes a local memory system with short-term, mid-term, and long-term memory. Memories are stored locally and can be deleted by the user.
+
+**Assistants**  
+Choose between built-in assistant profiles or create your own custom assistant with its own instructions, personality, and greeting.
+
+**File Analysis**  
+Attach supported text documents or files and ask MiddAI to summarize, explain, rewrite, or answer questions from them.
+
+**Image Analysis**  
+With an image-analysis model selected, MiddAI can inspect attached images and screenshots, then answer questions about what is visible.
+
+**Self-Hosted Setup**  
+MiddAI helps guide users through model selection and loading, making local AI easier to use without needing to manually configure everything.
 
 ## **Screenshots**
 
@@ -40,9 +57,23 @@ Text & Image Analysis - Users can attach text files and images to be analysed.
 </p>
 
 ## **Privacy:**
-Chats, memory, settings, and instructions are stored locally on your machine. If you delete your chats, memory, or the Documents\MiddAI folder, that data is removed from your device. MiddAI does not collect, upload, sell, or share your personal data.
+
+MiddAI is designed to run locally on your own computer. Your chats, memory, settings, assistants, and instruction files are stored on your machine, inside:  `Documents\MiddAI`
+
+MiddAI does not collect, upload, sell, or share your personal data. There is no central MiddAI server holding your chat history or memory.
+
+If you delete your chats, memory, custom assistants, settings, or the `Documents\MiddAI` folder, that data is removed from your device.
+
+The only times MiddAI needs internet access are:
+
+- downloading models through LM Studio
+- using Search mode to fetch web results
+- loading image search results when you ask for them
+
+Local chat can run without an internet connection once LM Studio and a model are installed.
 
 ## **Easy Setup:**
+
 Getting started with MiddAI is simple:
 
 1. Download the latest MiddAI release from GitHub.
