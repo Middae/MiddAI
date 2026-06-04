@@ -6,7 +6,7 @@ MiddAI is built for people who want the privacy and control of a local AI, witho
 
 
 <p align="center">
-  <img src="editedsize.png" alt="MiddAI main screen" width="400">
+  <img src="Logo.png" alt="MiddAI main screen" width="400">
 </p>
 
 Offline AI. Online intelligence when you need it.
