@@ -70,63 +70,72 @@ For example, my own laptop runs the lowest model with a shorter context length, 
 This means you do not need a high-end gaming PC to try MiddAI, although stronger hardware will allow larger models, longer memory/context, and better performance.
 
 ## **Models:** 
-Laptop:   Phi-4-mini, rules memory/own workstation, 6,000 context
 
-Mid-range: Qwen3-4B, AI Judge memory, 30,000 context
+Laptop: Phi-4-mini, fast rules memory, 6,000 context, approx. 2.49 GB
 
-Mid-range: Qwen3-8B, AI Judge memory, 30,000 context
+Low-end: Qwen3-4B-Instruct-2507, AI Judge memory, 30,000 context, approx. 2.50 GB
 
-High-end:  Qwen3-30B-A3B, AI Judge memory, 70,000 context
+Low-end: Gemma 3 4B, AI Judge memory, 28,000 context, approx. 3.0 GB
 
-Extreme:  Llama 3.3 70B Instruct, AI Judge memory, 120,000 context
+Low-end: Ministral 3 3B, AI Judge memory, 28,000 context, image-capable testing, approx. 2.0 GB
 
-Extreme:  Mistral Large 2 123B, AI Judge memory, 120,000 context
+Mid-range: Mistral 7B Instruct v0.3, AI Judge memory, 30,000 context, approx. 4.37 GB
 
+Mid-range: Mistral NeMo 12B, AI Judge memory, 30,000 context, approx. 6.90 GB
+
+High-end: Qwen3-30B-A3B-Instruct-2507, AI Judge memory, 70,000 context, approx. 18.56 GB
+
+Image Analysis: Ministral 3 3B Reasoning, AI Judge memory, 28,000 context, approx. 2.0 GB
+
+Image Analysis: Qwen2.5-VL-7B, AI Judge memory, 16,000 context, approx. 5.37 GB
+
+Image Analysis: Qwen2.5-VL-32B, AI Judge memory, 30,000 context, approx. 18.5 GB
+
+Extreme: Llama 3.3 70B Instruct, AI Judge memory, 120,000 context, approx. 42.5 GB
+
+Extreme: Mistral Large 2 123B, AI Judge memory, 120,000 context, approx. 73.3 GB
+
+Advanced: Custom loaded LM Studio model, uses whatever model the user already has loaded in LM Studio
 
 
 ## **System Requirements:**
-[Base Requirements]
 
-MiddAI requires Windows, LM Studio installed, and enough free storage for whichever AI model you choose to download. The program itself is light; the selected model is what determines RAM, speed, and storage use.
+MiddAI requires Windows, LM Studio, and enough free storage for whichever model you choose to download. The program itself is lightweight; the selected model is what determines RAM use, storage size, and speed.
 
-[Laptop / Light Systems]
+### Low / Laptop
 
-Recommended for laptops and ordinary PCs.
+Recommended for basic local chat, light search, and smaller models.
 
-Suggested: 8GB+ RAM.
+Suggested:
 
-Models: Phi-4-mini, Qwen3-4B.
+- Windows 10/11
+- 8 GB+ RAM
+- 10 GB+ free storage
+- CPU-only is fine
+- Best for smaller models and lower-end laptops
 
-Memory: fast rules-based memory.
+### Medium
 
-Context: 6,000-30,000 tokens.
+Recommended for better local chat, search, memory, file analysis, and lighter image analysis.
 
-Best for: quick local chatting, light search use, and lower-end machines.
+Suggested:
 
-[Mid / High Systems]
+- Windows 10/11
+- 16 GB-32 GB RAM
+- 25 GB+ free storage
+- Dedicated GPU preferred but not required
+- Best for stronger laptops, gaming PCs, and ordinary desktop PCs
 
-Recommended for stronger PCs, gaming PCs, or laptops with more memory.
+### High / Workstation
 
-Suggested: 16GB-32GB+ RAM.
+Recommended for large models, long context, heavy image analysis, and stronger reasoning.
 
-Models: Qwen3-8B, Qwen3-30B-A3B.
+Suggested:
 
-Memory: Qwen3-8B uses fast rules memory. Qwen3-30B uses AI Judge memory.
+- Windows 10/11
+- 64 GB-128 GB+ RAM
+- 100 GB+ free storage
+- Strong GPU, high VRAM, or unified memory setup strongly recommended
+- Best for workstation-class machines
 
-Context: 30,000-70,000 tokens.
-
-Best for: better answers, longer chats, stronger reasoning, and heavier local use.
-
-[Extreme Workstations]
-
-Recommended only for powerful workstation-class computers.
-
-Suggested: 64GB-128GB+ RAM, or strong GPU/VRAM/unified memory setups.
-
-Models: Llama 3.3 70B Instruct, Mistral Large 2 123B.
-
-Memory: AI Judge memory.
-
-Context: 120,000 tokens.
-
-Warning: these models are very large and may freeze or crash on weaker PCs. - You must insert UNDERSTOOD into a locked window before you can download these models so don't worry about accidentally loading them.
+Extreme models are protected by a warning step. The user must type UNDERSTOOD before downloading them, so they cannot be selected accidentally.
