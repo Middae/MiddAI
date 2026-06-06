@@ -15,19 +15,31 @@ MiddAI is a self-hosted AI assistant that runs on your own computer. It can work
 ## **Features:**
 
 **Offline Use**  
-Once LM Studio and a model are installed, MiddAI can chat locally without an internet connection.
+MiddAI is completely ofline and can chat locally without an internet connection.
+
+**User Friendly & Easy to Set Up**
+MiddAI helps guide users through model selection and loading, making local AI easier to use without needing to manually configure everything.
 
 **Online Search**  
 When connected to the internet, MiddAI can search the web for current information, sources, and image results.
 
-**Image Search**  
-Search results can include image thumbnails, useful for places, objects, plants, products, and visual examples.
+<p align="left">
+  <img src="imagescreenshot.png" alt="MiddAI main screen" width="600">
+</p>
 
 **Memory System**  
 MiddAI includes a local memory system with short-term, mid-term, and long-term memory. Memories are stored locally and can be deleted by the user.
 
+<p align="left">
+  <img src="memoryscreenshot.png" alt="MiddAI main screen" width="600">
+</p>
+
 **Assistants**  
 Choose between built-in assistant profiles or create your own custom assistant with its own instructions, personality, and greeting.
+
+<p align="left">
+  <img src="assistantscreenshot.png" alt="MiddAI main screen" width="600">
+</p>
 
 **File Analysis**  
 Attach supported text documents or files and ask MiddAI to summarize, explain, rewrite, or answer questions from them.
@@ -35,26 +47,13 @@ Attach supported text documents or files and ask MiddAI to summarize, explain, r
 **Image Analysis**  
 With an image-analysis model selected, MiddAI can inspect attached images and screenshots, then answer questions about what is visible.
 
+<p align="left">
+  <img src="attachscreenshot.png" alt="MiddAI main screen" width="600">
+</p>
+
 **Self-Hosted Setup**  
-MiddAI helps guide users through model selection and loading, making local AI easier to use without needing to manually configure everything.
-
-## **Screenshots**
-
-<p align="center">
-  <img src="6AGy4B.png" alt="MiddAI main screen" width="800">
-</p>
-
-<p align="center">
-  <img src="Screenshot 2026-05-29 063924.png" alt="MiddAI main screen" width="800">
-</p>
-
-<p align="center">
-  <img src="Screenshot 2026-06-02 160722.png" alt="MiddAI main screen" width="800">
-</p>
-
-<p align="center">
-  <img src="Screenshot 2026-05-29 063911.png" alt="MiddAI main screen" width="800">
-</p>
+MiddAI is self=hosted meaning it runs via a server which runs on your hardware. Essentially it runs on your PC without need of an internet connection
+though advanced users can set up networking if they like (This is how cloud AI work like Chat GPT, Claude etc.
 
 ## **Privacy:**
 
