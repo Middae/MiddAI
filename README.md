@@ -2,7 +2,7 @@
 MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
 
  
- # [Download MiddAI](https://github.com/Middae/MiddAI---Private-Offline-AI-from-Middae/releases/download/v2.0/MiddAI.V2.0.zip) Click here to download MiddAI.
+ # [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1/MiddAI.V2.1.zip) Click here to download MiddAI.
 
 
 <p align="center">
