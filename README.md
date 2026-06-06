@@ -6,7 +6,7 @@ MiddAI is built for people who want the privacy and control of a local AI, witho
 
 
 <p align="center">
-  <img src="Logo.png" alt="MiddAI main screen" width="500">
+  <img src="Logo.png" alt="MiddAI main screen" width="400">
 </p>
 
 Offline AI. Online intelligence when you need it.
@@ -24,21 +24,21 @@ MiddAI helps guide users through model selection and loading, making local AI ea
 When connected to the internet, MiddAI can search the web for current information, sources, and image results.
 
 <p align="left">
-  <img src="imagescreenshot.png" alt="MiddAI main screen" width="600">
+  <img src="imagescreenshot.png" alt="MiddAI main screen" width="700">
 </p>
 
 **Memory System**  
 MiddAI includes a local memory system with short-term, mid-term, and long-term memory. Memories are stored locally and can be deleted by the user.
 
 <p align="left">
-  <img src="memoryscreenshot.png" alt="MiddAI main screen" width="600">
+  <img src="memoryscreenshot.png" alt="MiddAI main screen" width="700">
 </p>
 
 **Assistants**  
 Choose between built-in assistant profiles or create your own custom assistant with its own instructions, personality, and greeting.
 
 <p align="left">
-  <img src="assistantscreenshot.png" alt="MiddAI main screen" width="600">
+  <img src="assistantscreenshot.png" alt="MiddAI main screen" width="700">
 </p>
 
 **File Analysis**  
@@ -48,7 +48,7 @@ Attach supported text documents or files and ask MiddAI to summarize, explain, r
 With an image-analysis model selected, MiddAI can inspect attached images and screenshots, then answer questions about what is visible.
 
 <p align="left">
-  <img src="attachscreenshot.png" alt="MiddAI main screen" width="600">
+  <img src="attachscreenshot.png" alt="MiddAI main screen" width="700">
 </p>
 
 **Self-Hosted Setup**  
