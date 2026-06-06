@@ -31,14 +31,14 @@ When connected to the internet, MiddAI can search the web for current informatio
 MiddAI includes a local memory system with short-term, mid-term, and long-term memory. Memories are stored locally and can be deleted by the user.
 
 <p align="left">
-  <img src="memoryscreenshot.png" alt="MiddAI main screen" width="700"><img src="memoryscreenshot1.png" alt="MiddAI main screen" width="250">
+  <img src="memoryscreenshot.png" alt="MiddAI main screen" width="700"><img src="memoryscreenshot2.png" alt="MiddAI main screen" width="230">
 </p>
 
 **Assistants**  
 Choose between built-in assistant profiles or create your own custom assistant with its own instructions, personality, and greeting.
 
 <p align="left">
-  <img src="assistantscreenshot.png" alt="MiddAI main screen" width="700"><img src="assistantscreenshot2.png" alt="MiddAI main screen" width="250">
+  <img src="assistantscreenshot.png" alt="MiddAI main screen" width="700"><img src="assistantscreenshot3.png" alt="MiddAI main screen" width="250">
 </p>
 
 **File Analysis**  
