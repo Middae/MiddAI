@@ -17,7 +17,7 @@ MiddAI is a self-hosted AI assistant that runs on your own computer. It can work
 **Offline Use**  
 MiddAI is completely ofline and can chat locally without an internet connection.
 
-**User Friendly & Easy to Set Up**
+**User Friendly & Easy to Set Up** <br>
 MiddAI helps guide users through model selection and loading, making local AI easier to use without needing to manually configure everything.
 
 **Online Search**  
