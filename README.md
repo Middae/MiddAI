@@ -1,8 +1,8 @@
 # MiddAI Private, Offline AI from Middae
-MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
+### **MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful. Offline AI. Online intelligence when you need it.**
 
- 
- # Click here to download MiddAI. ➡️ : [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1/MiddAI.V2.1.zip) </br>
+##        Download MiddAI ⬇️
+# ➡️   [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1/MiddAI.V2.1.zip) </br>
 ### ⭐ If MiddAI is useful to you, please consider starring the repo — it helps others discover the project.
 
 <p align="center">
@@ -12,7 +12,7 @@ MiddAI is built for people who want the privacy and control of a local AI, witho
 Offline AI. Online intelligence when you need it.
 MiddAI is a self-hosted AI assistant that runs on your own computer. It can work fully offline, but when connected to the internet it can search the web, check facts, and use results to improve its answers.
 
-## **Features:**
+# ✨ **Features:**
 
 🏠 **Offline Use**  
 MiddAI is completely offline and can chat locally without an internet connection.
@@ -51,14 +51,14 @@ With an image-analysis model selected, MiddAI can inspect attached images and sc
   <img src="attachscreenshot.png" alt="MiddAI main screen" width="700">
 </p>
 
-## ⚙️ **Self-Hosted Setup**  
+⚙️ **Self-Hosted Setup**  
 
 MiddAI runs on your own computer through a local LM Studio server.  
 That means the AI model, chats, memory, and settings stay on your own machine.
 
 Advanced users can also configure local-network or remote access, but MiddAI is designed to work as a private local setup first.
 
-## 🔒 **Privacy:** 
+🔒 **Privacy:** 
 
 MiddAI is designed to run locally on your own computer. Your chats, memory, settings, assistants, and instruction files are stored on your machine, inside:  `Documents\MiddAI`
 
@@ -74,7 +74,7 @@ The only times MiddAI needs internet access are:
 
 Local chat can run without an internet connection once LM Studio and a model are installed.
 
-## 😲 **Easy Setup:**
+😲 **Easy Setup:**
 
 Getting started with MiddAI is simple:
 
@@ -91,7 +91,7 @@ Your settings, AI instructions, and memory file are saved locally in:
 
 C:\Users\YourName\Documents\MiddAI
 
-## 🆓 **Free to Download:**
+🆓 **Free to Download:**
 MiddAI is free to download and use.
 
 Because it runs locally on your own computer, there are no cloud usage fees or subscription costs. The only cost is the processing power and electricity used by your own device while the AI is running.
