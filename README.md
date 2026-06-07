@@ -52,8 +52,11 @@ With an image-analysis model selected, MiddAI can inspect attached images and sc
 </p>
 
 ## ⚙️ **Self-Hosted Setup**  
-MiddAI is self-hosted meaning it runs via a server which runs on your hardware. Essentially it runs on your PC without need of an internet connection
-though advanced users can set up networking if they like (This is how cloud AI work like Chat GPT, Claude etc.)
+
+MiddAI runs on your own computer through a local LM Studio server.  
+That means the AI model, chats, memory, and settings stay on your own machine.
+
+Advanced users can also configure local-network or remote access, but MiddAI is designed to work as a private local setup first.
 
 ## 🔒 **Privacy:** 
 
