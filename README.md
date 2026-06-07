@@ -3,7 +3,7 @@ MiddAI is built for people who want the privacy and control of a local AI, witho
 
  
  # Click here to download MiddAI. ➡️ : [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1/MiddAI.V2.1.zip) </br>
-# # ⭐ If MiddAI is useful to you, please consider starring the repo — it helps others discover the project.
+### ⭐ If MiddAI is useful to you, please consider starring the repo — it helps others discover the project.
 
 <p align="center">
   <img src="Logo.png" alt="MiddAI main screen" width="400">
@@ -14,48 +14,48 @@ MiddAI is a self-hosted AI assistant that runs on your own computer. It can work
 
 ## **Features:**
 
-**Offline Use**  
+🏠 **Offline Use**  
 MiddAI is completely offline and can chat locally without an internet connection.
 
-**User Friendly & Easy to Set Up** <br>
+😊 **User Friendly & Easy to Set Up** <br>
 MiddAI helps guide users through model selection and loading, making local AI easier to use without needing to manually configure everything.
 
-**Online Search**  
+🌐 **Online Search**  
 When connected to the internet, MiddAI can search the web for current information, sources, and image results.
 
 <p align="left">
   <img src="imagescreenshot.png" alt="MiddAI main screen" width="700">
 </p>
 
-**Memory System**  
+🧠 **Memory System**  
 MiddAI includes a local memory system with short-term, mid-term, and long-term memory. Memories are stored locally and can be deleted by the user.
 
 <p align="left">
   <img src="memoryscreenshot.png" alt="MiddAI main screen" width="700"><img src="memoryscreenshot2.png" alt="MiddAI main screen" width="230">
 </p>
 
-**Assistants**  
+🧩 **Assistants**  
 Choose between built-in assistant profiles or create your own custom assistant with its own instructions, personality, and greeting.
 
 <p align="left">
   <img src="assistantscreenshot.png" alt="MiddAI main screen" width="700"><img src="assistantscreenshot3.png" alt="MiddAI main screen" width="250">
 </p>
 
-**File Analysis**  
+📁 **File Analysis**  
 Attach supported text documents or files and ask MiddAI to summarize, explain, rewrite, or answer questions from them.
 
-**Image Analysis**  
+🖼️ **Image Analysis**  
 With an image-analysis model selected, MiddAI can inspect attached images and screenshots, then answer questions about what is visible.
 
 <p align="left">
   <img src="attachscreenshot.png" alt="MiddAI main screen" width="700">
 </p>
 
-**Self-Hosted Setup**  
+## ⚙️ **Self-Hosted Setup**  
 MiddAI is self-hosted meaning it runs via a server which runs on your hardware. Essentially it runs on your PC without need of an internet connection
 though advanced users can set up networking if they like (This is how cloud AI work like Chat GPT, Claude etc.)
 
-## **Privacy:**
+## 🔒 **Privacy:** 
 
 MiddAI is designed to run locally on your own computer. Your chats, memory, settings, assistants, and instruction files are stored on your machine, inside:  `Documents\MiddAI`
 
@@ -71,7 +71,7 @@ The only times MiddAI needs internet access are:
 
 Local chat can run without an internet connection once LM Studio and a model are installed.
 
-## **Easy Setup:**
+## 😲 **Easy Setup:**
 
 Getting started with MiddAI is simple:
 
@@ -88,7 +88,7 @@ Your settings, AI instructions, and memory file are saved locally in:
 
 C:\Users\YourName\Documents\MiddAI
 
-## **Free to Download:**
+## 🆓 **Free to Download:**
 MiddAI is free to download and use.
 
 Because it runs locally on your own computer, there are no cloud usage fees or subscription costs. The only cost is the processing power and electricity used by your own device while the AI is running.
@@ -99,7 +99,7 @@ For example, my own laptop runs the lowest model with a shorter context length, 
 
 This means you do not need a high-end gaming PC to try MiddAI, although stronger hardware will allow larger models, longer memory/context, and better performance.
 
-## **Models:** 
+## 🤖 **Models:** 
 
 Laptop: Phi-4-mini, fast rules memory, 6,000 context, approx. 2.49 GB
 
@@ -128,7 +128,7 @@ Extreme: Mistral Large 2 123B, AI Judge memory, 120,000 context, approx. 73.3 GB
 Advanced: Custom loaded LM Studio model, uses whatever model the user already has loaded in LM Studio
 
 
-## **System Requirements:**
+## 💻 **System Requirements:**
 
 MiddAI requires Windows, LM Studio, and enough free storage for whichever model you choose to download. The program itself is lightweight; the selected model is what determines RAM use, storage size, and speed.
 
