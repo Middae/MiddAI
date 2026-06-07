@@ -9,9 +9,6 @@
   <img src="Logo.png" alt="MiddAI main screen" width="400">
 </p>
 
-Offline AI. Online intelligence when you need it.
-MiddAI is a self-hosted AI assistant that runs on your own computer. It can work fully offline, but when connected to the internet it can search the web, check facts, and use results to improve its answers.
-
 # ✨ **Features:**
 
 🏠 **Offline Use**  
