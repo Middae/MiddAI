@@ -2,8 +2,8 @@
 MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful.
 
  
-  #Click here to download MiddAI. ➡️ : [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1/MiddAI.V2.1.zip) 
-  #⭐ If MiddAI is useful to you, please consider starring the repo — it helps others discover the project.
+ # Click here to download MiddAI. ➡️ : [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1/MiddAI.V2.1.zip) </br>
+ # ⭐ If MiddAI is useful to you, please consider starring the repo — it helps others discover the project.
 
 <p align="center">
   <img src="Logo.png" alt="MiddAI main screen" width="400">
