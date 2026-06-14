@@ -2,7 +2,7 @@
 ### **MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful. Offline AI. Online intelligence when you need it.**
 
 ##        Download MiddAI ⬇️
-# ➡️   [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip) </br>
+# ➡️   [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Latest Release Downloads](https://img.shields.io/github/downloads/Middae/MiddAI/latest/total?style=for-the-badge&label=Latest%20Release%20Downloads) </br>
 ### ⭐ If MiddAI is useful to you, please consider starring the repo — it helps others discover the project.
 
 <p align="center">
