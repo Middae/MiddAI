@@ -10,9 +10,10 @@
 <h1>
 <a href="https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip">Download MiddAI - Windows</a>
 </h1>
-
-<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=GitHub%20Downloads&color=green&scale=1.2" alt="GitHub Downloads">
+<a href="https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip">
+<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=GitHub%20Downloads&color=green&scale=2.0" alt="GitHub Downloads">
 </td>
+</a>
 
 <td align="center" width="35%">
 <span style="font-size: 28;">If MiddAI is useful to you,<br>
