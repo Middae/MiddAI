@@ -25,13 +25,21 @@ please consider <img src="https://github.githubassets.com/images/icons/emoji/uni
 </tr>
 </table>
 </br>
+<div align="center">
+  <h1>MiddAI Private, Offline AI from Middae</h1>
+  <h3>
+    MiddAI is built for people who want the privacy and control of a local AI,
+    without losing the powerful features that make cloud AI useful.
+    Offline AI. Online intelligence when you need it.
+  </h3>
+</div>
 
-# MiddAI Private, Offline AI from Middae
-### **MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful. Offline AI. Online intelligence when you need it.**
-</br>
+<br>
+<br>
+<br>
     
 
-# ✨ **Features:**
+## ✨ **Features:**
 
 🏠 **Offline Use**  
 MiddAI is completely offline and can chat locally without an internet connection.
