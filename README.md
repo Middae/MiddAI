@@ -1,13 +1,35 @@
-# MiddAI Private, Offline AI from Middae
-### **MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful. Offline AI. Online intelligence when you need it.**
-
-##        Download MiddAI ⬇️
-#   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Download MiddAI](https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip) </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Downloads](https://badgen.net/github/assets-dl/Middae/MiddAI?label=GitHub%20Downloads&color=green&scale=1.2)](https://github.com/Middae/MiddAI/releases/latest) </br>
-### ⭐ If MiddAI is useful to you, please consider starring the repo — it helps others discover the project.
 
 <p align="center">
-  <img src="Logo.png" alt="MiddAI main screen" width="400">
+  <img src="Logo2.png" alt="MiddAI main screen" width="160">
 </p>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="65%">
+<h3>Download MiddAI ⬇️</h3>
+<h1>
+<a href="https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip">Download MiddAI - Windows</a>
+</h1>
+
+<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=GitHub%20Downloads&color=green&scale=1.2" alt="GitHub Downloads">
+</td>
+
+<td align="center" width="35%">
+<span style="font-size: 28;">If MiddAI is useful to you,<br>
+please consider <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"
+     width="28"
+     height="28"
+     alt="⭐"> starring the repo<br>
+— it helps others discover the project.</span>
+</td>
+</tr>
+</table>
+</br>
+
+# MiddAI Private, Offline AI from Middae
+### **MiddAI is built for people who want the privacy and control of a local AI, without losing the powerful features that make cloud AI useful. Offline AI. Online intelligence when you need it.**
+</br>
+    
 
 # ✨ **Features:**
 
