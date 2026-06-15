@@ -6,22 +6,19 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="65%">
-<h3>Download MiddAI ⬇️</h3>
-<h1>
-<a href="https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip">Download MiddAI - Windows</a>
-</h1>
+<h3>Download ⬇️ MiddAI v2.1.1 - Windows</h3>
 <a href="https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip">
-<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=GitHub%20Downloads&color=green&scale=2.0" alt="GitHub Downloads">
+<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=MiddAI%20v2.1.1%20-%20Downloaded&color=blue&scale=2.4" alt="Middae v2.1.1 - Downloaded">
 </td>
 </a>
 
 <td align="center" width="35%">
-<span style="font-size: 28;">If MiddAI is useful to you,<br>
-please consider <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"
-     width="28"
-     height="28"
-     alt="⭐"> starring the repo<br>
-— it helps others discover the project.</span>
+<h3>If MiddAI is useful to you,<br>
+please consider</h3> <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"
+     width="36"
+     height="36"
+     alt="⭐"> <h3>starring the repo<br>
+— it helps others discover the project.</h3>
 </td>
 </tr>
 </table>
