@@ -3,12 +3,12 @@
   <img src="Logo2.png" alt="MiddAI main screen" width="160">
 </p>
 
-<table align="center" width="100%">
+<table align="center" width="20%">
 <tr>
 <td align="center" width="65%">
-<h3>Download ⬇️ MiddAI v2.1.1 - Windows</h3>
+<h3>Download <br> MiddAI v2.1.1 - Windows <br> ⬇️     ⬇️     ⬇️</h3>
 <a href="https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip">
-<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=MiddAI%20v2.1.1%20-%20Downloaded&color=blue&scale=2.4" alt="Middae v2.1.1 - Downloaded">
+<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=MiddAI%20v2.1.1%20-%20Downloaded&color=blue&scale=1.8" alt="Middae v2.1.1 - Downloaded">
 </td>
 </a>
 
