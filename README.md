@@ -14,11 +14,10 @@
 
 <td align="center" width="35%">
 <h3>If MiddAI is useful to you,<br>
-please consider</h3> <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"
-     width="36"
-     height="36"
-     alt="⭐"> <h3>starring the repo<br>
-— it helps others discover the project.</h3>
+please consider starring the repo</h3> <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"
+     width="48"
+     height="48"
+     alt="⭐">
 </td>
 </tr>
 </table>
