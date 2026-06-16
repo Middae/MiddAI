@@ -8,7 +8,7 @@
 <td align="center" width="65%">
 <h3>Download <br> MiddAI v2.1.1 - Windows <br> ⬇️     ⬇️     ⬇️</h3>
 <a href="https://github.com/Middae/MiddAI/releases/download/v2.1.1/MiddAI.V2.1.1.zip">
-<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=MiddAI%20v2.1.1%20-%20Downloaded&color=blue&scale=2.0" alt="Middae v2.1.1 - Downloaded">
+<img src="https://badgen.net/github/assets-dl/Middae/MiddAI?label=MiddAI%20v2.1.1&color=blue&scale=2.2" alt="Middae v2.1.1 - Downloaded">
 </td>
 </a>
 
